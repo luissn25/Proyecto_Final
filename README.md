@@ -1,8 +1,7 @@
 # Proyecto Final
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar y trabajar con datos relacionados con la huella de carbono utilizando diversos datasets y scripts de Python. El análisis se centra en la normalización y conversión de datasets, así como en la unificación de diferentes fuentes de datos.
-ademas aborda la normalización de datasets y el uso de modelos de redes neuronales para evaluar y mejorar la calidad de los datos. Se revisan trabajos previos, se describen métodos aplicados, se presentan los resultados obtenidos y se discuten los conocimientos descubiertos. Los hallazgos subrayan la importancia de la normalización para el rendimiento de los modelos predictivos, ofreciendo una guía práctica y teórica sobre las mejores prácticas en este campo.
+Este proyecto aborda la normalización de datasets y el uso de modelos de redes neuronales para evaluar y mejorar la calidad de los datos. Se revisan trabajos previos, se describen métodos aplicados, se presentan los resultados obtenidos y se discuten los conocimientos descubiertos. Los hallazgos subrayan la importancia de la normalización para el rendimiento de los modelos predictivos, ofreciendo una guía práctica y teórica sobre las mejores prácticas en este campo.
 
 ## Estructura del Proyecto
 - `proyecto_primer_avance.ipynb`: Primer avance del proyecto, incluye los primeros análisis y resultados iniciales.
